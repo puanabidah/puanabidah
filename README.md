@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello Everyone! 
+
+My name is **Puan Abidah Nitisara**.
+- 👩‍🦰 You can call me Puan
+- 👩‍🎓 I’m currently studying in University of Sumatera Utara
+- 📝 I’m currently learning about Web Development and Cloud Computing
+- 👯 I’m looking to collaborate on WebDev
+- 💬 Ask me about Web Programming
+- 📫 You can reach me at [My Email](puan.abidah.n@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm an Introvert but I can adapt quickly
+
+If you are interested in getting to know me, please follow my account in [Linkedin](https://www.linkedin.com/in/puan-abidah/).

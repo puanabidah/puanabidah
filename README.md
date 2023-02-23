@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is **Puan Abidah Nitisara**.
 - 👩‍🦰 You can call me Puan
-- 👩‍🎓 I’m currently studying in University of Sumatera Utara
+- 👩‍🎓 I’m currently studying in University of Sumatera Utara, majoring Computer Science
 - 📝 I’m currently learning about Web Development and Cloud Computing
 - 👯 I’m looking to collaborate on WebDev
 - 💬 Ask me about Web Programming
